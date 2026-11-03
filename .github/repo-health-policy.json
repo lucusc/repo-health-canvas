@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "name": "Repository health policy",
+  "version": "unconfigured",
+  "reference": "",
+  "requiredStandards": [],
+  "license": {
+    "approvedFileNames": [
+      "LICENSE"
+    ],
+    "expectedSpdxIds": [],
+    "templateReference": "",
+    "exceptions": []
+  },
+  "confirmedCodeowners": [],
+  "reviewerGuidance": "",
+  "dependabotAuthors": [
+    "dependabot[bot]",
+    "dependabot-preview[bot]"
+  ],
+  "enabledChecks": [
+    "repository-standards",
+    "codeowners-errors",
+    "github-license-recognition",
+    "dependabot-prs",
+    "dependency-alerts",
+    "code-scanning-alerts"
+  ],
+  "repositoryExceptions": [],
+  "repositoryOverrides": []
+}
